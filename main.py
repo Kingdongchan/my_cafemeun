@@ -3,6 +3,7 @@ class cafeMenu:
         cafe_food = name
         cafe_food_price = price
 
+    def order_output(self):
         print(f"주문하신 {cafe_food} 나왔습니다.")
 
     
