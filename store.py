@@ -11,4 +11,4 @@ for i in range(len(store)):
     for j in store_type:
         store_in_object = store_type[j]
 
-        print(store_in_object)
+        # print(store_in_object)
